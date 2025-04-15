@@ -1,0 +1,16 @@
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\controllers\CarroController.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\controllers\FabricanteController.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\controllers\ModeloController.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\entity\Carro.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\entity\Fabricante.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\entity\Modelo.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\exception\CarroNotFoundException.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\exception\CarroNotFoundExceptionMapper.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\GreetingResource.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\MyEntity.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\repository\CarroRepository.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\repository\FabricanteRepository.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\repository\ModeloRepository.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\services\CarroService.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\services\FabricanteService.java
+C:\Users\vini7\OneDrive\Área de Trabalho\Senac\Quarto-Semestre\trabalho-api\carros-api\src\main\java\org\acme\services\ModeloService.java

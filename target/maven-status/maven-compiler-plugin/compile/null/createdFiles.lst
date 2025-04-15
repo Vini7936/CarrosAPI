@@ -1,0 +1,16 @@
+org\acme\controllers\CarroController.class
+org\acme\repository\FabricanteRepository.class
+org\acme\entity\Fabricante.class
+org\acme\services\ModeloService.class
+org\acme\services\CarroService.class
+org\acme\MyEntity.class
+org\acme\repository\CarroRepository.class
+org\acme\entity\Modelo.class
+org\acme\exception\CarroNotFoundException.class
+org\acme\repository\ModeloRepository.class
+org\acme\services\FabricanteService.class
+org\acme\controllers\FabricanteController.class
+org\acme\GreetingResource.class
+org\acme\controllers\ModeloController.class
+org\acme\entity\Carro.class
+org\acme\exception\CarroNotFoundExceptionMapper.class
